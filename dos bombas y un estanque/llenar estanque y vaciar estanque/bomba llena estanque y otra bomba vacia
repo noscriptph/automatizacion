@@ -30,6 +30,8 @@ Este proyecto consiste en un sistema automatizado para el control de llenado de 
 ## Diagrama del Sistema
 
 ![Diagrama del Sistema](<diagrama tablero.bmp>)
+la siguiente revision permite que se detengan ambas bombas cuando corresponde, en el caso que el estanque este totalmente lleno o bien se apague la otra bomba cuando este vacio, con eso evitamos que se revalse o una de las bombas(la de salida) funcione en vacio sin agua
+![revision de diagrama](<diagrama tablero-1.bmp>)
 
 ## Licencia de Uso y Autoria
 
